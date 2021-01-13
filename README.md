@@ -1,6 +1,6 @@
 ### Cards with hover effect using HTML and CSS
 
-!(../master/flipping_img/example.png)
+![Screenshot of the project] (example.png)
 
 Example works only with desktop apps
 
